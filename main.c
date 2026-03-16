@@ -6,5 +6,6 @@ int main() {
     printf("Vitor aqui! Terceiro commit\n");
     printf("Pierre aqui! Primeiro commit\n");
     printf("Pierre aqui! Segundo commit\n");
+    printf("Tommaso aqui! Primeiro commit\n");
     return 0;
 }
